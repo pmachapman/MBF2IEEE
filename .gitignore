@@ -1,0 +1,8 @@
+*.bsc
+*.dll
+*.lib
+*.map
+*.obj
+*.sbr
+*.vcw
+*.wsp
